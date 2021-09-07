@@ -233,6 +233,26 @@ console.log( v );
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/base/dnanstdevwd`][@stdlib/stats/base/dnanstdevwd]: calculate the standard deviation of a double-precision floating-point strided array ignoring NaN values and using Welford's algorithm.
+-   [`@stdlib/stats/base/dstdev`][@stdlib/stats/base/dstdev]: calculate the standard deviation of a double-precision floating-point strided array.
+-   [`@stdlib/stats/base/dvariancewd`][@stdlib/stats/base/dvariancewd]: calculate the variance of a double-precision floating-point strided array using Welford's algorithm.
+-   [`@stdlib/stats/base/sstdevwd`][@stdlib/stats/base/sstdevwd]: calculate the standard deviation of a single-precision floating-point strided array using Welford's algorithm.
+-   [`@stdlib/stats/base/stdevwd`][@stdlib/stats/base/stdevwd]: calculate the standard deviation of a strided array using Welford's algorithm.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -297,6 +317,20 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@welford:1962a]: https://doi.org/10.1080/00401706.1962.10490022
 
 [@vanreeken:1968a]: https://doi.org/10.1145/362929.362961
+
+<!-- <related-links> -->
+
+[@stdlib/stats/base/dnanstdevwd]: https://github.com/stdlib-js/stats-base-dnanstdevwd
+
+[@stdlib/stats/base/dstdev]: https://github.com/stdlib-js/stats-base-dstdev
+
+[@stdlib/stats/base/dvariancewd]: https://github.com/stdlib-js/stats-base-dvariancewd
+
+[@stdlib/stats/base/sstdevwd]: https://github.com/stdlib-js/stats-base-sstdevwd
+
+[@stdlib/stats/base/stdevwd]: https://github.com/stdlib-js/stats-base-stdevwd
+
+<!-- </related-links> -->
 
 </section>
 
