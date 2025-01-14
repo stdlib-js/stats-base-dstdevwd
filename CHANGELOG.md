@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-08)
+## Unreleased (2025-01-14)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`b00d9f1`](https://github.com/stdlib-js/stdlib/commit/b00d9f1064701187f48a05b9753e74ae835b0726) - **docs:** fix typing error in `repl.txt` of `stats/base/*` [(#4750)](https://github.com/stdlib-js/stdlib/pull/4750) _(by Aayush Khanna)_
 -   [`b4af7cd`](https://github.com/stdlib-js/stdlib/commit/b4af7cd6caca695d965bedf217a6ad0b5afd5b57) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dstdevwd` [(#4620)](https://github.com/stdlib-js/stdlib/pull/4620) _(by Aayush Khanna, Athan Reines)_
 -   [`e878384`](https://github.com/stdlib-js/stdlib/commit/e878384af7beb18fb6f697dcbf99e75d57e2171c) - **refactor:** update `stats/base/dstdevwd` native addon from C++ to C [(#4274)](https://github.com/stdlib-js/stdlib/pull/4274) _(by Vivek Maurya)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
