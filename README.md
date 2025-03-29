@@ -382,7 +382,7 @@ int main( void ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/stats-base/dnanstdevwd`][@stdlib/stats/base/dnanstdevwd]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array ignoring NaN values and using Welford's algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/dnanstdevwd`][@stdlib/stats/strided/dnanstdevwd]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array ignoring NaN values and using Welford's algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-base/dstdev`][@stdlib/stats/base/dstdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-base/dvariancewd`][@stdlib/stats/base/dvariancewd]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array using Welford's algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-base/sstdevwd`][@stdlib/stats/base/sstdevwd]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a single-precision floating-point strided array using Welford's algorithm.</span>
@@ -476,7 +476,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/stats/base/dnanstdevwd]: https://github.com/stdlib-js/stats-base-dnanstdevwd
+[@stdlib/stats/strided/dnanstdevwd]: https://github.com/stdlib-js/stats-strided-dnanstdevwd
 
 [@stdlib/stats/base/dstdev]: https://github.com/stdlib-js/stats-base-dstdev
 
